@@ -1,4 +1,4 @@
-# [Nombre]
+# Reglas-KQL-SeguridadSi
 
 Reglas de detección de amenazas para Azure Sentinel
 
