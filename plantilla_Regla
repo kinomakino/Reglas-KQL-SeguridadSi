@@ -1,0 +1,21 @@
+# Detección de password spraying en Entra ID
+
+## Qué detecta
+[El ataque, en cristiano.]
+
+## MITRE ATT&CK
+T1110.003 — Brute Force: Password Spraying
+
+## La regla
+```kusto
+[el KQL]
+```
+
+## Falsos positivos que te vas a comer
+[Los reales. Esto es tu foso. Nadie lo publica.]
+
+## Cómo afinarla
+[Umbrales, exclusiones, qué cambiar según el tamaño del tenant.]
+
+## Y cuando salte, ¿qué hago?
+[La respuesta. Los primeros pasos.]
